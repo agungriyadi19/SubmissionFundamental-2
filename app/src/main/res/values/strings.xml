@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Github Users Search</string>
+    <string name="search_hint">Search</string>
+    <string name="detail">Detail User</string>
+
+    <string name="list_user">User Github:</string>
+    <string name="username">UsernameGithub</string>
+    <string name="location">Location</string>
+    <string name="found_user">0 User Found</string>
+    <string name="name_user">Nama User</string>
+    <string name="followers">%s Followers</string>
+    <string name="following">%s Following</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="fav">Favorite</string>
+    <string name="favMenu">Favorite User</string>
+    <string name="setMenu">Theme Setting</string>
+    <string name="dark_mode">Dark Mode  </string>
+    <string name="btn_back">Button Kembali</string>
+    <string name="toggleButton">ToggleButton</string>
+    <string name="favOn" />
+    <string name="favOff" />
+    <string name="favorite_menu">Favorite Menu</string>
+    <string name="favorite_user_github">Favorite User Github</string>
+    <string name="search_button">Search Button</string>
+    <string name="github_logo">Github Logo</string>
+
+</resources>
